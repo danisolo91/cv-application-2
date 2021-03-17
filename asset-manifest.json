@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cv-application-2/static/css/main.b545d128.chunk.css",
+    "main.js": "/cv-application-2/static/js/main.53a09a37.chunk.js",
+    "main.js.map": "/cv-application-2/static/js/main.53a09a37.chunk.js.map",
+    "runtime-main.js": "/cv-application-2/static/js/runtime-main.2a50a656.js",
+    "runtime-main.js.map": "/cv-application-2/static/js/runtime-main.2a50a656.js.map",
+    "static/css/2.0ce4c322.chunk.css": "/cv-application-2/static/css/2.0ce4c322.chunk.css",
+    "static/js/2.378204ed.chunk.js": "/cv-application-2/static/js/2.378204ed.chunk.js",
+    "static/js/2.378204ed.chunk.js.map": "/cv-application-2/static/js/2.378204ed.chunk.js.map",
+    "index.html": "/cv-application-2/index.html",
+    "static/css/2.0ce4c322.chunk.css.map": "/cv-application-2/static/css/2.0ce4c322.chunk.css.map",
+    "static/css/main.b545d128.chunk.css.map": "/cv-application-2/static/css/main.b545d128.chunk.css.map",
+    "static/js/2.378204ed.chunk.js.LICENSE.txt": "/cv-application-2/static/js/2.378204ed.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/cv-application-2/static/media/bootstrap-icons.cc252f2c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a50a656.js",
+    "static/css/2.0ce4c322.chunk.css",
+    "static/js/2.378204ed.chunk.js",
+    "static/css/main.b545d128.chunk.css",
+    "static/js/main.53a09a37.chunk.js"
+  ]
+}
